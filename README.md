@@ -43,7 +43,7 @@ This Power BI dashboard provides deep insights into employee attrition patterns.
 ## 📌 How to Use
 
 1. Open `Employee-Attrition-Report.pbix` in Power BI Desktop.
-2. Replace the dataset under `data/` with your actual HR dataset (if needed).
+2. Replace the dataset with your actual HR dataset (if needed).
 3. Interact with the visualizations and explore attrition trends.
 
 ---
