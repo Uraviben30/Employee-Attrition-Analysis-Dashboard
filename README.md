@@ -5,7 +5,7 @@ This Power BI dashboard provides deep insights into employee attrition patterns.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.PNG)
+![Dashboard Preview](dashboard-preview.PNG)
 
 ---
 
@@ -37,26 +37,7 @@ This Power BI dashboard provides deep insights into employee attrition patterns.
 - **Advanced Charts**: Ribbon chart, Decomposition Tree, Area Chart
 - **Exploratory Analysis**: Drill-down capability with decomposition tree
 - **Custom KPIs**: Total Employees, Attrition Rate, Avg Monthly Income
-
----
-
-## 📁 Project Structure
-
-```
-employee-attrition-dashboard/
-│
-├── assets/
-│   └── dashboard-preview.PNG        # Dashboard image
-│
-├── data/
-│   └── (You can place your dataset here)
-│
-├── pbix/
-│   └── Employee-Attrition-Report.pbix (optional)
-│
-└── README.md                        # Project documentation
-```
-
+  
 ---
 
 ## 📌 How to Use
